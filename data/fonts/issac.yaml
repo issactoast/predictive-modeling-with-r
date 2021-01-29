@@ -8,6 +8,6 @@ google_fonts: 'Nanum+Gothic+Coding:400,700|Nanum+Gothic:400,700,800|Nanum+Myeong
 
 # Font families
 heading_font: "Nanum Gothic"
-body_font: "Nanum Myeongjo"
+body_font: "Nanum Gothic"
 nav_font: "Nanum Gothic"
 mono_font: '"Nanum Gothic Coding", Consolas, "Liberation Mono", Menlo, Courier, monospace'
