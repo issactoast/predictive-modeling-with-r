@@ -13,13 +13,13 @@
 theme: "inferno"
 
 # Enable users to switch between day and night mode?
-day_night: false
+day_night: true
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font: "barlow"
+font: "issac"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -38,7 +38,7 @@ font_size: "M"
 site_type: "Course"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description: "Learn the basics of programming using the open source statistical program R, an interactive programming language for data science."
+description: "Learn the fundarmentals of predictive modeling using the programming language R."
 
 
 ############################
@@ -71,11 +71,11 @@ privacy_pack: false
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
 edit_page:
-  repo_url: 'https://github.com/andrewheiss/evalsp21.classes.andrewheiss.com'
+  repo_url: 'https://github.com/issactoast/predictive-modeling-with-r'
   content_dir: ''
   repo_branch: master
   editable:
-    docs: true
+    docs: false
     page: false
     post: false
 
@@ -96,34 +96,32 @@ show_related:
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
 
-author: Kelsey Gonzalez
+author: Issac Lee
 
 instructor: 
-  name: Kelsey Gonzalez
-  email: KelseyGonzalez@American.edu
-  url: "https://kelseygonzalez.github.io"
-  twitter: KelseyEGonzalez
-  github: kelseygonzalez
+  name: Issac Lee
+  email: cara3621@skku.edu
+  url: "https://theissaclee.com"
+  github: issactoast
   contact_policy: >-
-    E-mail, message on Canvas, or set up a meeting for my student hours. I want to help you succeed!  
-  appointment_url: https://calendly.com/kelseygonzalez
+    E-mail or Message on iCampus
 
 course:
-  number: "STAT 412/612"
+  number: "MTH5155 "
   semester: "Spring 2021"
-  days: "M & Th"
-  time: "11:20 - 12:45 EST"
-  dates: "January 19–April 26, 2021"
-  github: "kelseygonzalez/AU-STAT412-612"
+  days: "Friday"
+  time: "9:00 am - 12:00 pm"
+  dates: "Feb. 26 – Jun. 4, 2021"
+  github: "issactoast/predictive-modeling-with-r"
   copyrightYear: "2021"
 
 university: 
-  name: American University
-  url: "https://www.american.edu"
+  name: Sungkyunkwan University
+  url: "https://www.skku.edu/eng/"
 
 school:
-  name: Department of Math & Statistics
-  url: "https://www.american.edu/cas/mathstat/"
+  name: Graduate School of Actuarial Science
+  url: "https://actuary.skku.edu/actuarial/index.do"
 
 
 ############################
@@ -134,7 +132,7 @@ school:
 sharing_image: "hex-tidyverse.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter: "KelseyEGonzalez"
+# twitter: ""
 
 
 ############################

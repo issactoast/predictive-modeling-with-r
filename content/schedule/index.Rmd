@@ -3,12 +3,11 @@ title: "Schedule"
 slug: schedule
 ---
 
-Here's your roadmap for the semester!
+한학기 우리들이 수업할 내용에 대한 스케쥴입니다.
 
-- [**Lecture**](/Lecture/) (<i class="fas fa-users"></i>): This page contains the handouts, slides, live-written code, and (maybe) the recorded lectures for the topic.
-- [**Reading**](/Assignment/Reading/) (<i class="fas fa-book-reader"></i>): This page contains the readings you are expected to read between Monday's lecture and Thursday's lab
-- [**Lab**](/Assignment/Lab) (<i class="fas fa-laptop-code"></i>): This page contains the group lab assignments that will be started and hopefully finished during the Thursday in-class coding lab. Labs will be worked on in groups of 2-3 and turned in the latest on Friday at 11:59 PM EST. Labwork is pass/fail. 
-- [**Homework**](/assignment/homework) (<i class="fas fa-pencil-ruler"></i>): This page contains the instructions for each of the larger assignments. **Assignments are due by 11:59 PM on the day they're listed.** Assignments are expected to be original work, not conducted in pairs.
-
+-   [**Lecture**](/Lecture/) (<i class="fas fa-users"></i>): 수업자료 관련 페이지입니다.
+-   [**Reading**](/Assignment/Reading/) (<i class="fas fa-book-reader"></i>): 수업시간 전 읽어보면 좋은 자료들
+-   [**Lab**](/Assignment/Lab) (<i class="fas fa-laptop-code"></i>): 이론수업 후 나머지 시간은 직접 손으로 코딩을 짜는 시간에 투자합니다. 코딩수업의 경우는 2-3명의 그룹을 만들어서 진행합니다.
+-   [**Presentation**](/assignment/homework) (<i class="fas fa-file-powerpoint"></i>): 보험계리 분야에 적용된 방법론에 대하여 발표를 합니다.
 
 `r blogdown::shortcode("schedule")`

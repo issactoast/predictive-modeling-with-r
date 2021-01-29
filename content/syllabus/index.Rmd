@@ -20,7 +20,7 @@ library(pander)
 
 ## Course Description
 
-Purpose: Develop your *competence*, *creativity*, and *confidence* as a data scientist working with R.
+Purpose: Obtain the fundamental idea your *competence*, *creativity*, and *confidence* as a data scientist working with R.
 
 Classes cover multiple data science methods focused on collecting, organizing, and analyzing data to build models and communicate analytical results in a reproducible manner. You will use R tidyverse packages to  acquire, clean, and tidy data; develop numerical and graphical displays;  write basic functions, and present/communicate your process, findings and recommendations.  For the final project, you will work in a small group to complete an analysis of complex data and communicate the elements of the analysis and the results in writing and through an oral presentation.  
 
